@@ -1,0 +1,29 @@
+* {
+	margin: 10;
+	padding: 10;
+}
+
+.wrapper {
+	margin: 0 auto;
+	width: 1200px;
+}
+
+video {
+	width: 50%;
+}
+
+.videowrapper {
+	position: relative;
+	right: 150px;
+}
+
+body {
+    font-size: 1.5em;
+    line-height: 1.4;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal; 
+    background-image: url(media/js1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
